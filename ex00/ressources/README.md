@@ -10,3 +10,5 @@ STEP 3:
     Result: Nothing
 STEP 4:
     There's a user flag00. Find all files owned by user flag00
+END :
+    token: x24ti5gi3x0ol2eh4esiuxias
