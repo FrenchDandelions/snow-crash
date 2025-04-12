@@ -1,0 +1,1 @@
+while true; do ~/level10 /tmp/fake_token_level10 0.0.0.0; done
